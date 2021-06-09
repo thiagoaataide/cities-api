@@ -1,4 +1,4 @@
-package com.github.thiagoaataide.citiesapi.distances;
+package com.github.thiagoaataide.citiesapi.distances.resources;
 
 import com.github.thiagoaataide.citiesapi.distances.service.DistanceService;
 import com.github.thiagoaataide.citiesapi.distances.service.EarthRadius;
